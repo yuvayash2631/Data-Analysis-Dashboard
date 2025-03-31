@@ -7,10 +7,10 @@ The objective of this Power BI project is to develop a comprehensive HR analytic
 
 ## Data Set used
   <a href="https://github.com/yuvayash2631/Data-Analysis-Dashboard/blob/main/Employee%20Sample%20Data.xlsx">
+- Data Set used
+# Headcount Analysis:
 
-- Headcount Analysis:
-
-- Showcase Year-on-Year trends in Headcount and Attrition.
+# Showcase Year-on-Year trends in Headcount and Attrition.
 - Display Headcount breakdown based on gender.
 - Display Headcount distribution across various age groups.
 - Analyse Headcount based on gender.
