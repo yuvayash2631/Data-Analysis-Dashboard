@@ -2,7 +2,7 @@
 
 Project Objective:
 
-The objective of this Power BI project is to develop a comprehensive HR analytics dashboard for Sandhu Excel Anywhere, helping them overcome challenges in understanding employee data and extracting meaningful insights.
+The objective of this Power BI project is to develop a comprehensive HR analytics dashboard for Excel Anywhere, helping them overcome challenges in understanding employee data and extracting meaningful insights.
 
 
 ## Data Set used
@@ -57,6 +57,6 @@ The Power BI HR Data Analysis Project for Excel Anywhere successfully transforms
 - Real-Time Data Updates – The data refresh indicator ensures that users always work with up-to-date HR information.
 
 Overall Impact:
-With this Power BI HR dashboard, Sandhu Excel Anywhere now has a powerful analytics tool that enables HR professionals to monitor, analyze, and optimize workforce dynamics efficiently. This project not only enhances HR reporting but also empowers better decision-making, leading to a more structured and data-driven HR management approach.
+With this Power BI HR dashboard, Excel Anywhere now has a powerful analytics tool that enables HR professionals to monitor, analyze, and optimize workforce dynamics efficiently. This project not only enhances HR reporting but also empowers better decision-making, leading to a more structured and data-driven HR management approach.
 
  The project successfully bridges the gap between HR data and strategic insights, helping the company improve employee management, diversity, and workforce efficiency.
