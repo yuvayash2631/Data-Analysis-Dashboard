@@ -26,6 +26,8 @@ The objective of this Power BI project is to develop a comprehensive HR analytic
   <a href="https://github.com/yuvayash2631/Data-Analysis-Dashboard/blob/main/POWER%20BI%20PROJECT%20(HR%20DASHBOARD).pbix">
 - Dashboard
 
+
+
 ![Screenshot 2025-03-31 185841](https://github.com/user-attachments/assets/257e34d2-83ea-4310-9749-205519adcff5)
 
 
