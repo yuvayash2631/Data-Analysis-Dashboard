@@ -46,7 +46,7 @@ The objective of this Power BI project is to develop a comprehensive HR analytic
 ## Final Conclusion
 
 Final Conclusion of the Power BI HR Data Analysis Project
-The Power BI HR Data Analysis Project for Sandhu Excel Anywhere successfully transforms raw employee data into a comprehensive, interactive, and data-driven dashboard. By implementing key HR metrics, headcount analysis, dynamic slicers, and real-time data refresh features, this project provides valuable workforce insights to HR teams and decision-makers.
+The Power BI HR Data Analysis Project for Excel Anywhere successfully transforms raw employee data into a comprehensive, interactive, and data-driven dashboard. By implementing key HR metrics, headcount analysis, dynamic slicers, and real-time data refresh features, this project provides valuable workforce insights to HR teams and decision-makers.
 
 ## Key Outcomes of the Project:
 - Enhanced Workforce Visibility – HR teams can now track headcount trends, attrition rates, and employee demographics in real time.
