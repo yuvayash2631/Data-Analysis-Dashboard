@@ -11,7 +11,7 @@ The objective of this Power BI project is to develop a comprehensive HR analytic
 
 # Headcount Analysis:
 
-# Showcase Year-on-Year trends in Headcount and Attrition.
+- Showcase Year-on-Year trends in Headcount and Attrition.
 - Display Headcount breakdown based on gender.
 - Display Headcount distribution across various age groups.
 - Analyse Headcount based on gender.
