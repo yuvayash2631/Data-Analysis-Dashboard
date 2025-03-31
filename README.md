@@ -25,3 +25,16 @@ The objective of this Power BI project is to develop a comprehensive HR analytic
 ## Power Bi Dashboard
   <a href="https://github.com/yuvayash2631/Data-Analysis-Dashboard/blob/main/POWER%20BI%20PROJECT%20(HR%20DASHBOARD).pbix">
 - Dashboard
+
+## Process for Power BI HR Data Analysis Project
+
+1. Data Collection & Preparation
+2. Import Data into Power BI
+3. Create Summary Page (Key HR Metrics Dashboard)
+4. Build Headcount Analysis Visuals
+5. Implement Slicers for Dynamic Filtering
+6. Add Data Refresh Indicator
+7. Optimize Dashboard for Performance & Usability
+8. Publish & Share the Dashboard
+
+
